@@ -1,7 +1,7 @@
 {
     "name": "jlaso/console-args",
     "version": "1.0.0",
-    "description": "A wrapper for the $argv global",
+    "description": "A wrapper for the argv global",
     "keywords": ["console", "arguments", "argv", "wrapper"],
     "homepage": "https://github.com/jlaso/console-args",
     "type": "library",
@@ -18,6 +18,5 @@
     },
     "autoload": {
         "psr-0": { "JLaso\\ConsoleArgs": "" }
-    },
-    "target-dir": "JLaso/ConsoleArgs"
+    }
 }
