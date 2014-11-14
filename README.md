@@ -3,7 +3,7 @@
 console-args
 =====================
 
-This is an wrapper for the $argv global
+This is an wrapper for the argv global
 
 The difference between arguments and options are:
 * arguments are strings like ```--help```
