@@ -18,5 +18,6 @@
     },
     "autoload": {
         "psr-0": { "JLaso\\ConsoleArgs": "" }
-    }
+    },
+    "target-dir": "JLaso/ConsoleArgs"
 }
